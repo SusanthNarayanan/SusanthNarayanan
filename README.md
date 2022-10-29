@@ -3,10 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanthnarayanan&label=Profile%20views&color=0e75b6&style=flat" alt="susanthnarayanan" /> </p>
 
-- ⚡ Fun fact **I love listening to music**
+
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently Studying.
 - 🤔 I'm ready to learn new techs.
+- ⚡ Fun fact **I love listening to music**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
