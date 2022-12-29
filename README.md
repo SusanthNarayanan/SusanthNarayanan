@@ -1,4 +1,4 @@
-<h1><p align="center">Hello, I'm Susanth Narayanan R! <a href="https://rahulmahesh.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1><p align="center">Hello, I'm Susanth Narayanan R! <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4029a055389655.59822ff823c19.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanthnarayanan&label=Profile%20views&color=0e75b6&style=flat" alt="susanthnarayanan" /> </p>
