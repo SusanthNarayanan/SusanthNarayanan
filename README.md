@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently Studying.
+- 🌱 I’m currently looking for Internship in 2023.
 - 🤔 I'm ready to learn new techs.
 - ⚡ Fun fact **I love listening to music**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susanthnarayanan&show_icons=true&locale=en" alt="susanthnarayanan" /></p>
 
 
+3
