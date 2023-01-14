@@ -8,6 +8,7 @@
 - 🌱 I’m currently looking for Internship in 2023.
 - 🤔 I'm ready to learn new techs.
 - ⚡ Fun fact **I love listening to music**
+- 📫 How to reach me susanthnarayananr@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
