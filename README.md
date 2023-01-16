@@ -12,7 +12,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/susanth-narayanan-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susanth-narayanan-r" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/susanth-narayanan-r" target="blank"><img align="center" src="https://www.drupal.org/files/project-images/linkedin_circle_logo.png" alt="susanth-narayanan-r" height="60" width="60" /></a>
 
 </p>
 
