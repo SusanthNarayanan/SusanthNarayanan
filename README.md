@@ -7,7 +7,6 @@
 - 🔭 I'm working on some secret stuff.
 - 🌱 I’m currently looking for Internship in 2023.
 - 🤔 I'm ready to learn new techs.
-- ⚡  I'm actively applying for: **A 6 months internship from June to November required by my course**
 - 📫 How to reach me susanthnarayananr@gmail.com
 
 <h3 align="left">Connect with me:</h3>
