@@ -5,7 +5,7 @@
 
 
 - 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently looking for Internship in 2023.
+- 🌱 I’m currently looking for an Internship in 2024.
 - 🤔 I'm ready to learn new techs.
 - 📫 How to reach me susanthnarayananr@gmail.com
 
